@@ -125,6 +125,6 @@ Provide a valid `GEMINI_API_KEY` in your `.env` to enable the Gemini 3.5 Flash R
 - **Resource Booking**: Extend section assignments to support projector, projector screen, and auxiliary device reservations.
 
 ---
-
+## Build by DIVAKAR M
 ## 10. License
 This project is licensed under the MIT License.
